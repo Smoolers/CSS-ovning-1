@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: blue;
+  color: orange;
+  width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+  color: purple;
+}
+
+.title {
+  color: aqua;
+}
+
+.container {
+  background-color: black;
+  height: 50%;
+}
+
+.presentation {
+  width: 100px;
+  height: 100px;
+  background-color: darkgrey;
+  padding: 10px;
+  border: 1px solid #fff;
+  margin: 10px;
+}
+
+.button {
+  background-color: #93f;
+  margin: 10px;
+  color: #fff;
+  padding: 10px;
+  border: 1px solid #93f;
+}
+
+.round {
+  border-radius: 50px;
+}
+
+.section-one {
+  width: 200px;
+  height: 200px;
+  background-color: #black;
+}
+
+.section-one-text {
+  color: #fff;
+}
+
+.inside-section-one {
+  width: 200px;
+  height: 100%;
+  background-color: #93f;
+}
